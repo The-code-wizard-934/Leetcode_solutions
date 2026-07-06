@@ -28,4 +28,4 @@ Constraints:
 	0 <= height[i] <= 105
 
 ---
-Runtime: 0 ms | Memory: 26 MB
+Runtime: 0 ms | Memory: 46.2 MB
